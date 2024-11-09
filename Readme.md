@@ -1,10 +1,12 @@
 # JavaScript DOM Assignments
 
 ![Javascript](https://img.shields.io/badge/-Javascript-red)
-![DOM](https://img.shields.io/badge/-DOM-blueviolet)
+![DOM](https://img.shields.io/badge/-DOM-blue)
 
-This project contains solutions of twenty JS DOM assignments. `solutions.js` file contains JS code of all the DOM assignments and `solutions.md` file contains images of how elements look before and after DOM manipulation along with their code snippets.
+## Overview
 
-[Link](./solutions.js) of solutions.js file
+This directory contains solutions of twenty JS DOM assignments given by iNeuron. `solutions.js` file contains JavaScript code of all the DOM assignments and `solutions.md` is a markdown file that contains images of how elements look before and after DOM manipulation along with their code snippets.
 
-[Link](./solutions.md) of solutions.md file
+### [Link](./solutions.js) of solutions.js file.
+
+### [Link](./solutions.md) of solutions.md file.
